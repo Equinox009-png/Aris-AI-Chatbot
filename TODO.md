@@ -1,0 +1,4 @@
+- [x] Update Signup.jsx formData to use firstName, lastName, email, password instead of username
+- [x] Add input fields for firstName and lastName in the form
+- [x] Remove the username input field
+- [ ] Test the signup functionality
